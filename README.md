@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![Marketing Campaign Performance Dashboard](Deshboard-without-filter.png)
+
 # Marketing Campaign Performance Dashboard
 
 ## Overview
